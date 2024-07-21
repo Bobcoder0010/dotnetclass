@@ -1,44 +1,69 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace propertiesExample
+namespace PropertiesExample
 {
-	public class person
-	{
-		public string name;
-		public string address;
+    public class Person
+    {
+        /* private string name;
+         private string address;
 
-		public string getName()
-		{
-			return name;
-		}
-		public void setName(string n)
-		{
-			name = n;
-		}
-		public string getAddress()
-		{
-			return address;
-		}
-		public void setAddress(string n)
-		{
-			address = n;
-		}
 
-	}
-	public class program
-	{
-		public static void main(string[]args)
-		{
-			person p = new person ();
-			p.setName = "Aashish";
-			p.setAdress="Itahari";
-			Console.WriteLine ($"hello {p.setName}, you live in {p.getAddress}");
-			Console.Readkey ();
+         public string Name
+         {
+             get
+             {
+                 return name;
+             }
+             set
+             {
+                 if (value.Length > 1)
+                 {
+                     name = value;
+                 }
+                 else
+                 {
+                     name = "No Name";
+                 }
+             }
+         }
 
-		}
-
-	}
+         public string Address
+         {
+             get
+             {
+                 return address;
+             }
+             set
+             {
+                 if (value.Equals("Itahari") || value.Equals("Dharan") || value.Equals("Biratnagar"))
+                 {
+                     address = value;
+                 }
+                 else
+                 {
+                     Console.WriteLine("Invalid");
+                     address = "Itahari";
+                 }
+             }
+         }
+     }
+        */
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
+        public class Program
+        {
+            public static void Main(string[] args)
+            {
+                Person p = new Person();
+                p.Name = "Roshan";
+                p.Address = "a";
+                p.Id = 1;
+                Console.WriteLine(p.Name);
+                Console.WriteLine(p.Address);
+                Console.WriteLine();
+                Console.ReadKey();
+            }
+        }
+    }
 }
