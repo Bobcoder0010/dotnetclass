@@ -1,0 +1,5 @@
+/home/bobmarley/dotnet/titletoggole/titletoggole/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bobmarley/dotnet/titletoggole/titletoggole/bin/Debug/titletoggole.exe.mdb
+/home/bobmarley/dotnet/titletoggole/titletoggole/bin/Debug/titletoggole.exe
+/home/bobmarley/dotnet/titletoggole/titletoggole/obj/x86/Debug/titletoggole.exe
+/home/bobmarley/dotnet/titletoggole/titletoggole/obj/x86/Debug/titletoggole.exe.mdb

@@ -1,0 +1,5 @@
+/home/bobmarley/dotnet/greaterandsmaller/greaterandsmaller/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bobmarley/dotnet/greaterandsmaller/greaterandsmaller/bin/Debug/greaterandsmaller.exe.mdb
+/home/bobmarley/dotnet/greaterandsmaller/greaterandsmaller/bin/Debug/greaterandsmaller.exe
+/home/bobmarley/dotnet/greaterandsmaller/greaterandsmaller/obj/x86/Debug/greaterandsmaller.exe
+/home/bobmarley/dotnet/greaterandsmaller/greaterandsmaller/obj/x86/Debug/greaterandsmaller.exe.mdb

@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="vowels-consnants-characer-words/vowels-consnants-characer-words.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="vowels-consnants-characer-words/Program.cs">
+    <Files>
+      <File FileName="vowels-consnants-characer-words/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

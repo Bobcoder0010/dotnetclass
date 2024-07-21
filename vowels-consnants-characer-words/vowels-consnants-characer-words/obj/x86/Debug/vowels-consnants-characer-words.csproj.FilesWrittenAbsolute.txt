@@ -1,0 +1,1 @@
+/home/bobmarley/dotnet/vowels-consnants-characer-words/vowels-consnants-characer-words/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs

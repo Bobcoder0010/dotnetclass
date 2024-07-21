@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="consoleCRUD/consoleCRUD.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="consoleCRUD/Program.cs">
+    <Files>
+      <File FileName="consoleCRUD/Program.cs" Line="82" Column="6" />
+      <File FileName="consoleCRUD/models/student.cs" Line="1" Column="1" />
+      <File FileName="consoleCRUD/Repository/studentrepo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
