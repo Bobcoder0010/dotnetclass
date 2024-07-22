@@ -1,0 +1,7 @@
+create database Testdb;
+use Testdb;
+create table Student
+(
+    Id int primary key,
+    [Name] nvarchar(50) not null,
+)
