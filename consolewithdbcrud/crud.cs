@@ -12,8 +12,7 @@ namespace crud_operations
 {
     public class DataAccess    
     {
-        private sqlConnection con = new sqlConnection;
-        public bool AddStudent(Student s)
+        
         {
             return true;
         }
@@ -25,3 +24,5 @@ namespace crud_operations
         
     }
 }
+
+
